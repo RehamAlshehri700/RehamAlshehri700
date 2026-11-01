@@ -74,8 +74,12 @@ alt="Cybersecurity Focus"
 
 </div>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Learning today. Securing tomorrow." />
-
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="Learning today. Securing tomorrow." />
 </div>
