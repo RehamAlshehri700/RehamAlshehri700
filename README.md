@@ -65,7 +65,7 @@ alt="Explore My Repositories"
 />
 </a>
 
-<br/><br/>
+<br/>
 
 <img
 src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-071523?style=for-the-badge&logo=hackthebox&logoColor=25D9FF&labelColor=071523&color=168DCC"
