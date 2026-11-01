@@ -1,70 +1,72 @@
 <div align="center">
 
-# 👩🏻‍💻 REHAM ALSHEHRI
+<!-- HEADER -->
 
-### Software Engineering | Cybersecurity | Networking
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student;Exploring+the+World+of+Cybersecurity;Learning%2C+Building%2C+Innovating" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:00D9FF&height=220&section=header&text=REHAM%20ALSHEHRI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20CYBERSECURITY%20%7C%20NETWORKING&descAlignY=60&descSize=16" width="100%"/>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RehamAlshehri700&color=00d9ff&style=for-the-badge)
+<!-- ANIMATED INTRO -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=%3E_+Welcome+to+my+digital+space;%3E_+Software+Engineering+Student;%3E_+Cybersecurity+%26+System+Administration;%3E_+Building+the+Future+with+Code;%3E_+Learning+Today.+Securing+Tomorrow." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=RehamAlshehri700&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00D9FF?style=for-the-badge&labelColor=020617"/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00D9FF?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
----
-
-## 👩🏻‍💻 About Me
-
-🎓 **Bachelor of Software Engineering**  
-🏛️ University of Canberra, Australia  
-🔐 Specialising in Cybersecurity & System Administration  
-🌐 Interested in Networking, Software Development & Cybersecurity  
-🚀 Passionate about learning and building innovative solutions  
+<br>
 
 ---
 
-## 🛠️ Technical Interests
+# 👩🏻‍💻 ABOUT ME
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00D9FF)
-![Networking](https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00D9FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)
-![Databases](https://img.shields.io/badge/Databases-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+### Hello, I'm Reham!
 
-</div>
+I'm a **Bachelor of Software Engineering student** at the **University of Canberra**, specialising in:
 
----
+🔐 Cybersecurity & System Administration
 
-## 🚀 Featured Projects
+🌐 Computer Networking
 
-### 💻 Software Technology
-Programming projects and practical software development exercises.
+💻 Software Development
 
-### 🌐 Introduction to IT
-Exploring information technology concepts, systems and applications.
+🛡️ Information Security
 
-### 🔐 Cybersecurity Journey
-Developing knowledge in network security, system administration and secure software development.
+🗄️ Database Systems
 
----
+🚀 Innovative Technology Solutions
 
-## 📊 GitHub Activity
+I enjoy exploring how technology works, solving problems, and continuously developing my technical knowledge.
 
-<div align="center">
+</td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RehamAlshehri700&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+<td width="45%">
 
-</div>
+```bash
+reham@github:~$ whoami
 
----
+> Reham Alshehri
+> Software Engineering Student
+> Cybersecurity Enthusiast
+> Future Software Engineer
 
-<div align="center">
+reham@github:~$ current_focus
 
-### 💙 "Learning today. Securing tomorrow."
+[+] Cybersecurity
+[+] Networking
+[+] System Administration
+[+] Software Development
 
-**Thank you for visiting my profile!**
+reham@github:~$ status
 
-</div>
+> Always Learning...
