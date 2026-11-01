@@ -46,7 +46,6 @@
 
 </td>
 <td width="50%" valign="top">
-
 <h2>📊 GitHub Activity</h2>
 
 <div align="center">
@@ -57,11 +56,24 @@ width="100%"
 alt="GitHub Streak"
 />
 
+<br/><br/>
+
+<a href="https://github.com/RehamAlshehri700?tab=repositories">
+<img
+src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-071523?style=for-the-badge&logo=github&logoColor=25D9FF&labelColor=071523&color=168DCC"
+alt="Explore My Repositories"
+/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-071523?style=for-the-badge&logo=hackthebox&logoColor=25D9FF&labelColor=071523&color=168DCC"
+alt="Cybersecurity Focus"
+/>
+
 </div>
 
-</td>
-</tr>
-</table>
 <br/>
 
 <img src="assets/footer.svg" width="100%" alt="Learning today. Securing tomorrow." />
