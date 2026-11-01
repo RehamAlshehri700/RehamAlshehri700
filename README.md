@@ -28,17 +28,40 @@
 <img src="assets/skill-8.svg" alt="Databases" width="104" />
 </div>
 
-## 🚀 Featured Projects
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<table><tr><td width="50%"><a href="https://github.com/RehamAlshehri700/IIT-Project"><img src="assets/project-it.svg" width="100%" alt="IIT Project — open repository" /></a></td><td width="50%"><a href="https://github.com/RehamAlshehri700/Software_tech_assignment-"><img src="assets/project-software.svg" width="100%" alt="Software Technology — open repository" /></a></td></tr></table>
+<h2>🚀 Featured Projects</h2>
 
-## 📊 GitHub Activity
+<a href="https://github.com/RehamAlshehri700/IIT-Project">
+  <img src="assets/project-it.svg" width="100%" alt="IT Project"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/RehamAlshehri700/Software_tech_assignment-">
+  <img src="assets/project-software.svg" width="100%" alt="Software Technology"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h2>📊 GitHub Activity</h2>
 
 <div align="center">
 
-<!-- These are live third-party images; if the service is down, GitHub may not display them. -->
-<img src="https://streak-stats.demolab.com?user=RehamAlshehri700&theme=transparent&background=071523&border=16b9f3&ring=25d9ff&fire=25d9ff&currStreakLabel=25d9ff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" width="49%" />
+<img
+src="https://streak-stats.demolab.com?user=RehamAlshehri700&theme=transparent&background=071523&border=16b9f3&ring=25d9ff&fire=25d9ff&currStreakLabel=25d9ff&sideLabels=ffffff&dates=ffffff"
+width="100%"
+alt="GitHub Streak"
+/>
 
+</div>
+
+</td>
+</tr>
+</table>
 <br/>
 
 <img src="assets/footer.svg" width="100%" alt="Learning today. Securing tomorrow." />
