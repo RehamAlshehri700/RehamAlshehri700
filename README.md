@@ -37,7 +37,6 @@
 <div align="center">
 
 <!-- These are live third-party images; if the service is down, GitHub may not display them. -->
-<img src="https://github-readme-stats.vercel.app/api?username=RehamAlshehri700&show_icons=true&theme=transparent&hide_border=false&border_color=16b9f3&bg_color=071523&title_color=25d9ff&text_color=ffffff&icon_color=25d9ff" alt="Live GitHub statistics" width="49%" />
 <img src="https://streak-stats.demolab.com?user=RehamAlshehri700&theme=transparent&background=071523&border=16b9f3&ring=25d9ff&fire=25d9ff&currStreakLabel=25d9ff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" width="49%" />
 
 <br/>
